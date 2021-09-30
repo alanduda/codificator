@@ -1,4 +1,4 @@
-chave = 'Teste'
+chave = 'Palavra Chave'
 letrasAdicao = 'luca'.upper()
 
 conjuntoChave = set(chave)
